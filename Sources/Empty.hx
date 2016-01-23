@@ -25,6 +25,7 @@ class Empty {
 	public var drp:Drp;
 
 	public function new() {
+		untyped document.addEventListener('mousewheel', function(e) { if(e.ctrlKey) {e.preventDefault();}});
 		Assets.loadEverything(loadingFinished);
 	}
 	
