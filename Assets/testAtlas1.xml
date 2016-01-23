@@ -1,0 +1,20 @@
+<testAtlas1.png>
+	<Untitled>
+		<x>0</x>
+		<y>0</y>
+		<width>32</width>
+		<height>32</height>
+	</Untitled>
+	<bad>
+		<x>34</x>
+		<y>0</y>
+		<width>8</width>
+		<height>8</height>
+	</bad>
+	<bullet>
+		<x>34</x>
+		<y>10</y>
+		<width>4</width>
+		<height>4</height>
+	</bullet>
+</testAtlas1.png>
